@@ -1,0 +1,29 @@
+{
+    "name": "zeo/orderdelete",
+    "description": "",
+    "require":
+{
+    "magento/project-community-edition": "*",
+        "magento/magento-composer-installer": "*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "extra":
+{
+    "map": [
+            [
+                "*",
+                "Zeo/OrderDelete/"
+            ]
+        ]
+    },
+    "authors": [
+       
+{
+        "name": "WISAM HAKIM",
+            "homepage": "https://www.zexperto.com/",
+            "role": "Developer"
+        }
+    ]}
+                
+                
